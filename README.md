@@ -1,4 +1,3 @@
-# NLP-25-MSDS---Group-6
 MindScan NLP Project
 
 Goal: Mental Health severity detection.
